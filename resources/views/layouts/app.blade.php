@@ -40,6 +40,15 @@
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('pedidos.index') }}">Solo para git</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ route('pedidos.index') }}">Solo para git</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ route('pedidos.index') }}">Solo para git</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ route('pedidos.index') }}">Solo para git</a>
+                        </li>
                     </ul>
                     @endauth
                     <!-- Right Side Of Navbar -->
